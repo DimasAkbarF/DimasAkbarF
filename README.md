@@ -23,11 +23,4 @@
 
   <br />
 
-  <h3>Top Languages</h3>
-  <p>
-    <a href="https://github.com/DimasAkbarF">
-      <!-- Menggunakan Top Languages Card dari anuraghazra yang sama, namun format ini sering lebih stabil -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasAkbarF&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </a>
-  </p>
 </div>
