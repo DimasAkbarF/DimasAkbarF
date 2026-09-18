@@ -1,13 +1,32 @@
-<h1 align="center">Hi 👋, I'm Dimas Akbar Faturohman</h1>
-<h3 align="center">Computer Science Student & Tech Enthusiast based in Indonesia</h3>
+<div align="center">
+  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dimas Akbar Faturohman</h1>
 
-- 🌱 I’m currently learning **Frameworks, coursesTypeScript, Next.js, and Tailwind CSS**
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Tech+Enthusiast+based+in+Indonesia;Frontend+Web+Developer" alt="Typing SVG" />
+    </a>
+  </p>
 
-- 👨‍💻 All of my projects are available at [https://dimasakbar.xyz/](https://dimasakbar.xyz/)
+  <p>🌱 I’m currently learning <b>TypeScript, Next.js, and Tailwind CSS</b></p>
+  <p>👨‍💻 All of my projects are available at <a href="https://dimasakbar.xyz/">dimasakbar.xyz</a></p>
+  <p>💬 Ask me about <b>Frontend development, web design, or tech in general</b></p>
+  <p>📫 How to reach me: <b>dimasakbr299@gmail.com</b></p>
 
-- 💬 Ask me about **Frontend development, web design, or tech in general**
+  <br />
 
-- 📫 How to reach me **dimasakbr299@gmail.com**
+  <h3>Languages and Tools</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,linux,mysql,py,react,tailwind,ts&perline=7" alt="My Skills" />
+    </a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  <br />
+
+  <h3>GitHub Stats</h3>
+  <p>
+    <a href="https://github.com/DimasAkbarF">
+      <img src="https://github-readme-stats.vercel.app/api?username=DimasAkbarF&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
